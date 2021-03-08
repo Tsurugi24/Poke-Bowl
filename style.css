@@ -1,0 +1,30 @@
+h3 {
+    color: white;
+    text-align: left;
+}
+
+ul {
+  text-align: left;
+}
+
+h2 {
+  color: red;
+}
+
+p {
+  font-family: fantasy;
+  font-size: 25px; 
+}
+
+.bowl {
+  text-align: center;
+  color: black;
+}
+
+li.borderless {
+  border-top: 0 none;
+  border-bottom: 0 none;
+  border-left: 0 none;
+  border-right: 0 none;
+  font-size: 16px;
+}
